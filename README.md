@@ -16,7 +16,7 @@
 java -jar file_server.jar
 ```
 
-访问 http://127.0.0.1:8080/
+访问 http://127.0.0.1:9090/
 
 ## Configuration
 
